@@ -2,10 +2,20 @@ Employee Directory
 ================
 
 A small ruby on rails application with below functionalities
+------------------------------------------------------------
 
--Validation
--At least 2 methods for each model 
--Uses a private method
--Deployed to Github
--Include an ajax call
--Include some tests
+1. Having Validation.
+
+2. Models and association.
+
+3. Uses a private method.
+
+4. Deployed to Github.
+
+5. Included an ajax call.
+
+6. Included some tests.
+
+7. Added users roles.
+
+8. Added admin sites.
